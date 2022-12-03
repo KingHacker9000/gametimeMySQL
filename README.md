@@ -55,14 +55,14 @@ Holds the Static Files for the website
 #### Built With
 ##### Modules
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-* [simpleSQLiteDB](https://github.com/KingHacker9000/simpleDB)
+* mysql-connector
 
 ##### Languages
 * Python
 * HTML (Jinja)
 * CSS
 * Javascript
-* SQLite3
+* MySQL
 
 ## Project Status
 > This project is still ongoing
